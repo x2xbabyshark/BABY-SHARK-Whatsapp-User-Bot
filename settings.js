@@ -38,9 +38,9 @@ global.botnma =  'BABY SHARK WHATSAPP USER BOT'
 //👇 Your name
 global.ownernma =  '@____yenul__senkindu__' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  'BABY SHARK' 
 //👇 Sticker Author Name
-global.author =  'BABI SHARK' 
+global.author =  'BABY SHARK' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'false'
 //👇 Inbox Block Massage 
@@ -107,7 +107,7 @@ global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
 global.pemilik = ['94725900907'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
 global.premium = ['94725900907'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '' // Your name ඔබේ නම 
+global.pengguna = '@____yenul__senkindu__' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
